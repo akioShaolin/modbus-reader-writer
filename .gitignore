@@ -1,0 +1,7 @@
+/archive-original/
+/.pio/
+/build/
+/.env
+/.env.*
+secrets.h
+arduino_secrets.h
